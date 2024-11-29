@@ -2952,7 +2952,6 @@
         "warning": "<w>WARNING:</w> <description/>"
     },
     "share": {
-        "link_title": "Link to room",
         "permalink_message": "Link to selected message",
         "permalink_most_recent": "Link to most recent message",
         "share_call": "Conference invite link",
